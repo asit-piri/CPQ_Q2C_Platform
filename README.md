@@ -6,6 +6,11 @@ We may all agree that clients prefer technology delivered as a Service, but they
 
 SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in business models from perpetual product offering to SaaS and Sunscription models, which give customers more freedom of action. Therefore, the Software as a Service (SaaS) subscription model will restructure and revolutionise the market, with a new and improved manner to offer as a service that will re-set the digital opportunity for clients. In order to help its customers lay the proper digital groundwork, SSCP offers a variety of subscription-based, pay-as-you-go as a service products that deliver a uniform cloud environment in which to run their essential operations. In addition, the SSCP's robust CPQ & Q2C, metering and governance features let businesses tune consumption to keep projects on track financially and legally.
 
+# Approach
+
+![img](docs/images/Vision-Strategy-Roadmap.png)
+
+
 ![img](docs/images/SaaS_Subscription_Commerce_Platform.png)
 
 ## 1. Configuration Price Quote (CPQ)
