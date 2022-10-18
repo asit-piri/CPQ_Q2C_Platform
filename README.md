@@ -22,7 +22,9 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/System-Design-Principles-Patterns.png)
 
-System-Design-Principles-Patterns.png
+# Agile Methodology - Adaptive Processes
+
+![img](docs/images/Agile-Methodology-Adaptive-Process.png)
 
 # Cross - Domain - Personas
 
