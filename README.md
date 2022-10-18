@@ -10,6 +10,12 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/Vision-Strategy-Roadmap.png)
 
+# User Onboarding Strategy
+
+![img](docs/images/User-Onboarding-Strategy.png)
+
+User-Onboarding-Strategy.png
+
 # High Level System Design & Architecture
 
 ![img](docs/images/High-Level-System-Design-Architecture.png)
