@@ -12,7 +12,7 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 # High Level System Design & Architecture
 
-![img](docs/images/High-Level-System-Design- Architecture.png)
+![img](docs/images/High-Level-System-Design-Architecture.png)
 
 # Cross - Domain - Personas
 
