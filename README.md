@@ -10,6 +10,11 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/Vision-Strategy-Roadmap.png)
 
+
+# Cross - Domain - Personas
+
+![img](docs/images/Cross-Domain-Personas.png)
+
 # SSCP User Journey Map
 
 ![img](docs/images/SaaS_Subscription_Commerce_Platform.png)
