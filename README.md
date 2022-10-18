@@ -10,6 +10,10 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/SaaS_Subscription_Commerce_Platform.png)
 
+# States of Quotes & Order
+
+![img](docs/images/State-of-Quote-Order.png)
+
 # Vision - Strategy - Roadmap
 
 ![img](docs/images/Vision-Strategy-Roadmap.png)
