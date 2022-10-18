@@ -18,6 +18,12 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/Data-Management-Function-Scope.png)
 
+# System Design Principles & Patterns
+
+![img](docs/images/System-Design-Principles-Patterns.png)
+
+System-Design-Principles-Patterns.png
+
 # Cross - Domain - Personas
 
 ![img](docs/images/Cross-Domain-Personas.png)
