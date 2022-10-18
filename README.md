@@ -1,2 +1,7 @@
-# Configuration Price Quote (CPQ) & Quote to Cash (Q2C) Platform
+# Configuration Price Quote (CPQ)
+
 SaaS and Subscription Commerce Platform
+
+
+
+# Quote to Cash (Q2C) 
