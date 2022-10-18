@@ -14,7 +14,7 @@ SaaS Subscription Commerce Platform (SSCP) will be driven by the shift in busine
 
 ![img](docs/images/User-Onboarding-Strategy.png)
 
-# User Onboarding Strategy
+# Key Metrices
 
 ![img](docs/images/Key-Metrices.png)
 
